@@ -1,9 +1,8 @@
-header {
-    background-image: url(background.jpg);
+.botonmenu{
+    background-image: url(imagenes/abrirmenu.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-color: aliceblue;
 }
-
-header .logo {
-    background-image: url(background.jpg);
-}
-
-.id{text-align: center;}
