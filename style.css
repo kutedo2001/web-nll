@@ -1,8 +1,36 @@
-.botonmenu{
+.botonmenu {
     background-image: url(imagenes/abrirmenu.png);
     background-repeat: no-repeat;
-    height: 50px;
-    width: 50px;
+    height: 45px;
+    width: 45px;
     background-position: center;
-    background-color: aliceblue;
+    background-color: rgb(191, 222, 250);
 }
+
+@font-face {
+    font-family: "fuente";
+    src: url("fuente/static/Caveat-Medium.ttf");
+}
+
+.nombre {
+    font-family: "fuente";
+    text-align: center;
+    font-size: xx-large;
+}
+
+div {
+    border: 1px solid black;
+}
+
+.buscador {
+    text-align: center;
+}
+
+.header {
+    background-image: url(imagenes/background.jpg);
+}
+
+.main {
+    background-image: url(imagenes/fondonombre.jpg);
+}
+.buscador{color:black;font-size: large; font-family: cursive;}
