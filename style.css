@@ -1,0 +1,9 @@
+header {
+    background-image: url(background.jpg);
+}
+
+header .logo {
+    background-image: url(background.jpg);
+}
+
+.id{text-align: center;}
