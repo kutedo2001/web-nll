@@ -1,30 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 @font-face {
     font-family: "fuente";
     src: url("fuente/static/Caveat-Medium.ttf");
 }
 
 .head {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.fondo1 {
     background-image: url(imagenes/backgroundNNL.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: 100%;
-    height: 180px;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-attachment: static;
 }
 
 .nombre {
-    margin-left: 430px;
-    margin-top: 20px;
-    width: 100px;
-    height: 100px;
-
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 110px;
+    height: 110px;
+    margin-left: 28%;
 }
 
-.container {
-    margin-top: 60px;
+.nombre2 {float:right;
+    margin-right: 48%;
+    color: white;
+    margin-top: 67px;
 }
+.container{padding: 2px;
+    background-size: 100%;;
+    background-color:black;}
 
+.menu{margin-top: 30px;
+margin-bottom: 10px;}
 .enlaces {
-    text-align: right;
+
+float: right;
 }
 
 .buscador {
