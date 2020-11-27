@@ -1,41 +1,8 @@
-.botonmenu {
-    background-image: url(imagenes/abrirmenu.png);
-    background-repeat: no-repeat;
-    height: 45px;
-    width: 45px;
-    background-position: center;
-    background-color: rgb(191, 222, 250);
+.container-fluid {max-width: 80%;
 }
 
-@font-face {
-    font-family: "fuente";
-    src: url("fuente/static/Caveat-Medium.ttf");
-}
-
-.nombre {
-    font-family: "fuente";
-    text-align: center;
-    font-size: xx-large;
-}
-
-.buscador {
-    text-align: center;
-}
-
-.header {
-    background-image: url(imagenes/background.jpg);
-}
-
-.main {
-    background-image: url(imagenes/fondonombre.jpg);
-}
-
-.buscador {
-    color: black;
-    font-size: large;
-    font-family: cursive;
-}
-
-.navegador {
-    text-align: right;
+.osix {
+    width: 120px;
+    ;
+    height: 60px;
 }
