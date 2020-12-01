@@ -1,4 +1,8 @@
-.container-fluid{max-width: 85%;}
+.container-fluid {
+    max-width: 80%;
+}
 
-.osix{width: 120px;
-height: 60px;}
+.osix {
+    width: 120px;
+    height: 60px;
+}
