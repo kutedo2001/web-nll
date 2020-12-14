@@ -19,6 +19,9 @@
  La creacion de la actual pagina web a sido "complicada", se empezo creando el [HTML](https://codigofacilito.com/articulos/que-es-html)para organizar la pagina por divisiones y secciones estableciendo asi diferentes patrones para la pagina, después de ello se procedio a organizar las diferentes divisiones de la pagina web y a separar visualmente las diferentes secciones gracias a [CSS](https://www.hostinger.es/tutoriales/que-es-css/), una vez separadas se crearon los diferentes elementos visuales y se empezaron a poner correctamente en su sitio final, una vez tenida cada division en su sitio correspondiente procedimos a añadirle color a algunos fondos, empezamos a modificar los bordes para tenerlos redondeados dando asi un aire mas profesional y enlazamos una tipologia desde [GOOGLE FONTS](https://fonts.google.com/) para que nuestro tipo de letra sea definido finalmente, tambien modificamos los colores de los enlazes, despues de tener todo eso en orden se fue modificando y reparando errores que habian surgido durante todo ese proceso.
  <a id="problemas"></a>
  ## Problemas
+
+
+
 <a id="soluciones"></a>
 ## Soluciones
 <a id="paginacrear"></a>
