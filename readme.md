@@ -20,6 +20,15 @@
  <a id="problemas"></a>
  ## Problemas
 
+A lo largo del todo el proyecto de la pagina web han ido surgiendo diferentes problemas,desde problemas con cosas de html hasta descobrir bootstrap para hacer mas facil tareas de css y problemas con javascript incluso sabemos futuros problemas que van a venir cuando insertemos el lenguaje [PHP](https://www.php.net/manual/es/intro-whatis.php)
+
+* ### HTML
+
+    1. Empece utilizando una serie de divisores(div) pero lei por varios sitios que dividir la web por secciones(section) y no por divisiones era mejor para hacer mas sencilla la web, pero en mi caso no me resultaba comodo y las imagenes y texto cuando los movia con css me daba muchos mas problemas utilizando secciones
+
+    2. La pagina web empezo a ser creada sin una imagen realmente clara, con lo cual las divisiones de la misma estaban bastante mal ejecutadas, teniendo divisiones no funcionales o otras que faltaban poner en sitios contretos, finalmente se decidio hacer un MockFlow de la pagina web final,completamente detallada 
+    
+        * [MockFlow](https://wireframepro.mockflow.com/view/M4bad61b3758db71e0899bdee72dde80d1606383994598)
 
 
 <a id="soluciones"></a>
