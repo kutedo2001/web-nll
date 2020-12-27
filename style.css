@@ -4,6 +4,31 @@
 
 .osix {
     width: 120px;
-    ;
-    height: 60px;
+    height: 120px;
 }
+
+.botonbusc{right: 0;}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    background: blue;
+    color: white;
+    text-decoration: underline;
+}
+
+a:focus {
+    color: red;
+    text-decoration: underline;
+}
+
+.button-con{
+    right: 0;
+    }
+
+.img1{margin-left: 200px;}
+
+a.logosix{background:none;}
